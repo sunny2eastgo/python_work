@@ -1,2 +1,9 @@
 #pandas #データ結合 #データ連結
 http://sinhrks.hatenablog.com/entry/2015/01/28/073327
+
+#doxygen #comment
+OPTIMIZE_OUTPUT_JAVA=YES
+<コメント形式>
+## @file
+#  @brief
+#  @details
