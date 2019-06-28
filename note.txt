@@ -6,4 +6,10 @@ OPTIMIZE_OUTPUT_JAVA=YES
 <コメント形式>
 ## @file
 #  @brief
-#  @details
+#  @detail
+
+#クラウド #プロジェクト #コミュニケーション
+Backlog
+Chatwork
+GitHub
+Gitlab
